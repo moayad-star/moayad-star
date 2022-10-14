@@ -1,7 +1,7 @@
 <br />
 <img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
 
-# Hi, I'm Moayad Ahmed 👋
+## Hi, I'm Moayad Ahmed 👋
 
 💪 Pronouns: **He**/**Him**
 
@@ -24,7 +24,8 @@
     <a href="https://discord.gg/33ujqX9zKw">
         <img src="https://imgur.com/4Qdbdup.png" width="40" height="40" alt="Moayad Discord Server">
     </a> 
-   <! - -   <a href="https://twitter.com/ful1e5">
+   <!-- 
+   <a href="https://twitter.com/ful1e5">
         <img src="https://imgur.com/IdhliN5.png" width="40" height="40" alt="Moayad Twitter Profile">
     </a>
 <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=ELSQNufATIyT33VoobBwCw">
